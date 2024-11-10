@@ -1,0 +1,552 @@
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	new file:   .gitattributes
+	new file:   .gitignore
+	new file:   .vs/pico/FileContentIndex/14fd8b30-98d3-4c26-9ebb-f761c38344dc.vsidx
+	new file:   .vs/pico/FileContentIndex/3044b9c3-8faf-46c7-b9c5-b2cf9e7f2201.vsidx
+	new file:   .vs/pico/FileContentIndex/35293005-e59f-47f2-b37b-79a9c2759b05.vsidx
+	new file:   .vs/pico/FileContentIndex/791e39af-e694-400d-833f-86e9c5180895.vsidx
+	new file:   .vs/pico/FileContentIndex/88175f04-e712-4e72-9349-d775828fa295.vsidx
+	new file:   .vs/pico/FileContentIndex/read.lock
+	new file:   .vs/pico/v17/.suo
+	new file:   .vs/pico/v17/fileList.bin
+	new file:   .vsconfig
+	new file:   Assembly-CSharp.Player.csproj
+	new file:   Assembly-CSharp.csproj
+	new file:   Assets/Brick Project Studio/Apartment Kit/Common/Materials/Interior Exterior/Int_Apt_01 1.mat
+	new file:   Assets/Brick Project Studio/Apartment Kit/Common/Materials/Interior Exterior/Int_Apt_01 1.mat.meta
+	modified:   Assets/Brick Project Studio/Apartment Kit/Common/Materials/Interior Exterior/Int_Apt_01.mat
+	modified:   Assets/Brick Project Studio/Apartment Kit/Common/Materials/Misc/Marble_Dark.mat
+	modified:   Assets/Brick Project Studio/Apartment Kit/Common/Materials/Misc/Rug.mat
+	new file:   Assets/Brick Project Studio/Apartment Kit/Common/Materials/Surface/13___Default.mat
+	new file:   Assets/Brick Project Studio/Apartment Kit/Common/Materials/Surface/13___Default.mat.meta
+	new file:   Assets/Brick Project Studio/Apartment Kit/Common/Materials/Surface/14___Default.mat
+	new file:   Assets/Brick Project Studio/Apartment Kit/Common/Materials/Surface/14___Default.mat.meta
+	modified:   Assets/Brick Project Studio/Apartment Kit/Common/Materials/Surface/Adler Dark Wood.mat
+	modified:   Assets/Brick Project Studio/Apartment Kit/Common/Materials/Surface/Adler Light Wood.mat
+	modified:   Assets/Brick Project Studio/Apartment Kit/Common/Materials/Surface/Antique.mat
+	modified:   Assets/Brick Project Studio/Apartment Kit/Common/Materials/Surface/BR_Tile_01_Mod.mat
+	modified:   Assets/Brick Project Studio/Apartment Kit/Common/Materials/Surface/BR_Tile_02.mat
+	modified:   Assets/Brick Project Studio/Apartment Kit/Common/Materials/Surface/Brushed Metal_Brass.mat
+	modified:   Assets/Brick Project Studio/Apartment Kit/Common/Materials/Surface/Brushed Metal_Chrome 1.mat
+	modified:   Assets/Brick Project Studio/Apartment Kit/Common/Materials/Surface/Brushed Metal_Chrome.mat
+	modified:   Assets/Brick Project Studio/Apartment Kit/Common/Materials/Surface/Brushed Metal_Gold.mat
+	new file:   Assets/Brick Project Studio/Apartment Kit/Common/Materials/Surface/Cabinets_01 1.mat
+	new file:   Assets/Brick Project Studio/Apartment Kit/Common/Materials/Surface/Cabinets_01 1.mat.meta
+	modified:   Assets/Brick Project Studio/Apartment Kit/Common/Materials/Surface/Cabinets_01.mat
+	modified:   Assets/Brick Project Studio/Apartment Kit/Common/Materials/Surface/CastIron_01.mat
+	modified:   Assets/Brick Project Studio/Apartment Kit/Common/Materials/Surface/Ebony Wood.mat
+	modified:   Assets/Brick Project Studio/Apartment Kit/Common/Materials/Surface/Fabric_01_White.mat
+	new file:   Assets/Brick Project Studio/Apartment Kit/Common/Materials/Surface/Leather_01 1.mat
+	new file:   Assets/Brick Project Studio/Apartment Kit/Common/Materials/Surface/Leather_01 1.mat.meta
+	modified:   Assets/Brick Project Studio/Apartment Kit/Common/Materials/Surface/Leather_01.mat
+	modified:   Assets/Brick Project Studio/Apartment Kit/Common/Materials/Surface/Leather_02.mat
+	modified:   Assets/Brick Project Studio/Apartment Kit/Common/Materials/Surface/Plastic_03.mat
+	modified:   Assets/Brick Project Studio/Apartment Kit/Common/Materials/Surface/Shiny Metal_01.mat
+	modified:   Assets/Brick Project Studio/Apartment Kit/Common/Materials/Surface/Vase_Apt_01.mat
+	new file:   Assets/Brick Project Studio/Apartment Kit/Common/Materials/Surface/White Wood 1.mat
+	new file:   Assets/Brick Project Studio/Apartment Kit/Common/Materials/Surface/White Wood 1.mat.meta
+	modified:   Assets/Brick Project Studio/Apartment Kit/Common/Materials/Surface/White Wood.mat
+	new file:   Assets/Brick Project Studio/Apartment Kit/Common/Materials/Surface/WhiteDull 1.mat
+	new file:   Assets/Brick Project Studio/Apartment Kit/Common/Materials/Surface/WhiteDull 1.mat.meta
+	new file:   Assets/Brick Project Studio/Apartment Kit/Common/Materials/Surface/WhiteDull 2.mat
+	new file:   Assets/Brick Project Studio/Apartment Kit/Common/Materials/Surface/WhiteDull 2.mat.meta
+	new file:   Assets/Brick Project Studio/_BPS Basic Assets/Common/Materials/Basic Assets/BA_Color_Black_01 1.mat
+	new file:   Assets/Brick Project Studio/_BPS Basic Assets/Common/Materials/Basic Assets/BA_Color_Black_01 1.mat.meta
+	modified:   Assets/Brick Project Studio/_BPS Basic Assets/Common/Materials/Basic Assets/BA_Color_Black_01.mat
+	modified:   Assets/Scenes/SampleScene.unity
+	new file:   Assets/Scripts.meta
+	new file:   Assets/Scripts/PlayerMovement.cs
+	new file:   Assets/Scripts/PlayerMovement.cs.meta
+	new file:   Assets/UnityTechnologies.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/Cream.mat
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/Cream.mat.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/Glass.mat
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/Glass.mat.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/Grey.mat
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/Grey.mat.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/PatternSpotBlue.mat
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/PatternSpotBlue.mat.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/PatternSpotGreenBig.mat
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/PatternSpotGreenBig.mat.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/PatternSpotGreenBlue.mat
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/PatternSpotGreenBlue.mat.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/PatternSpotGreenSmall.mat
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/PatternSpotGreenSmall.mat.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/PatternSpotGrey.mat
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/PatternSpotGrey.mat.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/PatternSpotPurple.mat
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/PatternSpotPurple.mat.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/PatternStripeGreen.mat
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/PatternStripeGreen.mat.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/PatternStripeGreenBlue.mat
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/PatternStripeGreenBlue.mat.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/PatternStripeGreenLime.mat
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/PatternStripeGreenLime.mat.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/PatternStripeGrey.mat
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/PatternStripeGrey.mat.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/PatternStripePurple.mat
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/PatternStripePurple.mat.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/SmallProps.mat
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/SmallProps.mat.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/SmallProps_Light.mat
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/SmallProps_Light.mat.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/StripesBeige.mat
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/StripesBeige.mat.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/TrimSheetBlues.mat
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/TrimSheetBlues.mat.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/TrimSheetGreenPurple.mat
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/TrimSheetGreenPurple.mat.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/TrimSheetPurple.mat
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/TrimSheetPurple.mat.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/WallGreen.mat
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/WallGreen.mat.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/WallGreenDarker.mat
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/WallGreenDarker.mat.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/WallGrey.mat
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/WallGrey.mat.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/WallPurple.mat
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/WallPurple.mat.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/WallsBlue.mat
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/WallsBlue.mat.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/WoodPlanksBeige.mat
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/WoodPlanksBeige.mat.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/WoodPlanksBrown.mat
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Materials/WoodPlanksBrown.mat.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/BedDouble.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/BedDouble.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/BedPillow.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/BedPillow.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/BedSingle.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/BedSingle.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/BenchDinning.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/BenchDinning.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Books.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Books.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/ChairDinningA.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/ChairDinningA.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/ChairDinningB.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/ChairDinningB.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Floor.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Floor/Floor1m.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Floor/Floor1m.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Floor/Floor2m.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Floor/Floor2m.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Floor/Floor2x4m.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Floor/Floor2x4m.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Floor/Floor3m.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Floor/Floor3m.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Floor/Floor4m.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Floor/Floor4m.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Floor/RugDoorMat.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Floor/RugDoorMat.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Floor/RugRectangleLong.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Floor/RugRectangleLong.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Floor/RugRectangleMedium.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Floor/RugRectangleMedium.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Floor/RugRectangleSmall.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Floor/RugRectangleSmall.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/LampShadeDome.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/LampShadeDome.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/LampShadeTube.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/LampShadeTube.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/LampSmall.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/LampSmall.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/LampTall.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/LampTall.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/LightBulb.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/LightBulb.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/LightCeliing.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/LightCeliing.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Mug.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Mug.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/PlantPotMedium.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/PlantPotMedium.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/PlantPotRoundMedium.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/PlantPotRoundMedium.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/PlantSnakeLarge.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/PlantSnakeLarge.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/ShelfWallSmall.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/ShelfWallSmall.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/ShelvesMediumA.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/ShelvesMediumA.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/ShelvesTallA.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/ShelvesTallA.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/SofaArmChair.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/SofaArmChair.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/SofaCusion.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/SofaCusion.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/SofaDouble.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/SofaDouble.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/SofaFootRest.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/SofaFootRest.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Switch.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Switch.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/TableNarrowDoubleDraw.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/TableNarrowDoubleDraw.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/TableNarrowSingleDraw.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/TableNarrowSingleDraw.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/TableRectangleMedium.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/TableRectangleMedium.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/TableRectangleShort.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/TableRectangleShort.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/TableSquareMedium.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/TableSquareMedium.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/VaseBulbus.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/VaseBulbus.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/VaseSmall.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/VaseSmall.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/VaseTall.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/VaseTall.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/VaseTallBottle.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/VaseTallBottle.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Walls.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Walls/Door.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Walls/Door.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Walls/Wall1m.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Walls/Wall1m.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Walls/Wall2m.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Walls/Wall2m.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Walls/Wall3m.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Walls/Wall3m.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Walls/Wall4m.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Walls/Wall4m.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Walls/WallCornerInner.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Walls/WallCornerInner.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Walls/WallCornerOuter.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Walls/WallCornerOuter.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Walls/WallDoor2m.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Walls/WallDoor2m.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Walls/WallWindow2m.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Walls/WallWindow2m.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Walls/WallWindow2mCurtain.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Walls/WallWindow2mCurtain.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Walls/WallWindow4m.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Walls/WallWindow4m.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Walls/WallWindow4mCurtain.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Walls/WallWindow4mCurtain.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Walls/WallWindowBay4m.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Walls/WallWindowBay4m.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Walls/WallWindowBay4mCurtain.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Walls/WallWindowBay4mCurtain.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Walls/WallWindowTall4m.FBX
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Models/Walls/WallWindowTall4m.FBX.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Floor.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Floor/Floor1m.prefab
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Floor/Floor1m.prefab.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Floor/Floor2m.prefab
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Floor/Floor2m.prefab.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Floor/Floor2x4m.prefab
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Floor/Floor2x4m.prefab.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Floor/Floor3m.prefab
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Floor/Floor3m.prefab.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Floor/Floor4m.prefab
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Floor/Floor4m.prefab.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Floor/RugDoorMat.prefab
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Floor/RugDoorMat.prefab.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Floor/RugRectangleLong.prefab
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Floor/RugRectangleLong.prefab.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Floor/RugRectangleMedium.prefab
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Floor/RugRectangleMedium.prefab.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Floor/RugRectangleSmall.prefab
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Floor/RugRectangleSmall.prefab.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Furniture.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Furniture/BedDouble.prefab
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Furniture/BedDouble.prefab.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Furniture/BenchDinning.prefab
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Furniture/BenchDinning.prefab.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Furniture/ChairDinningA.prefab
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Furniture/ChairDinningA.prefab.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Furniture/ChairDinningB.prefab
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Furniture/ChairDinningB.prefab.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Furniture/ShelfWallSmall.prefab
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Furniture/ShelfWallSmall.prefab.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Furniture/ShelvesMediumA.prefab
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Furniture/ShelvesMediumA.prefab.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Furniture/ShelvesTallA.prefab
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Furniture/ShelvesTallA.prefab.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Furniture/SofaArmChair.prefab
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Furniture/SofaArmChair.prefab.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Furniture/SofaDouble.prefab
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Furniture/SofaDouble.prefab.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Furniture/SofaFootRest.prefab
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Furniture/SofaFootRest.prefab.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Furniture/TableNarrowDoubleDraw.prefab
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Furniture/TableNarrowDoubleDraw.prefab.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Furniture/TableNarrowSingleDraw.prefab
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Furniture/TableNarrowSingleDraw.prefab.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Furniture/TableRectangleMedium.prefab
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Furniture/TableRectangleMedium.prefab.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Furniture/TableRectangleShort.prefab
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Furniture/TableRectangleShort.prefab.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Furniture/TableSquareMedium.prefab
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Furniture/TableSquareMedium.prefab.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Lights.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Lights/LampSmall.prefab
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Lights/LampSmall.prefab.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Lights/LampTall.prefab
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Lights/LampTall.prefab.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Lights/LightCeliing.prefab
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Lights/LightCeliing.prefab.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Lights/LightCeliingDome.prefab
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Lights/LightCeliingDome.prefab.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Props.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Props/Books.prefab
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Props/Books.prefab.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Props/Mug.prefab
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Props/Mug.prefab.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Props/PlantPotMedium.prefab
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Props/PlantPotMedium.prefab.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Props/PlantPotRoundMedium.prefab
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Props/PlantPotRoundMedium.prefab.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Props/Switch.prefab
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Props/Switch.prefab.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Props/VaseRoundBottom.prefab
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Props/VaseRoundBottom.prefab.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Props/VaseSmall.prefab
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Props/VaseSmall.prefab.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Props/VaseTall.prefab
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Props/VaseTall.prefab.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Props/VaseTallBottle.prefab
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Props/VaseTallBottle.prefab.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Walls.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Walls/Wall1m.prefab
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Walls/Wall1m.prefab.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Walls/Wall2m.prefab
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Walls/Wall2m.prefab.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Walls/Wall3m.prefab
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Walls/Wall3m.prefab.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Walls/Wall4m.prefab
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Walls/Wall4m.prefab.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Walls/WallCornerInner.prefab
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Walls/WallCornerInner.prefab.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Walls/WallCornerOuter.prefab
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Walls/WallCornerOuter.prefab.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Walls/WallDoor2m.prefab
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Walls/WallDoor2m.prefab.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Walls/WallDoorFrame2m.prefab
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Walls/WallDoorFrame2m.prefab.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Walls/WallWindow2m.prefab
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Walls/WallWindow2m.prefab.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Walls/WallWindow4m.prefab
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Walls/WallWindow4m.prefab.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Walls/WallWindowBay4m.prefab
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Walls/WallWindowBay4m.prefab.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Walls/WallWindowTall4m.prefab
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Prefabs/Walls/WallWindowTall4m.prefab.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Scenes.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Scenes/Prefabs.unity
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Scenes/Prefabs.unity.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Textures.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Textures/Floor_BeigeStripes.jpg
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Textures/Floor_BeigeStripes.jpg.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Textures/Floor_WoodPlanks.jpg
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Textures/Floor_WoodPlanks.jpg.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Textures/Floor_WoodPlanksWhitewash.jpg
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Textures/Floor_WoodPlanksWhitewash.jpg.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Textures/SmallProps.jpg
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Textures/SmallProps.jpg.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Textures/SpotsGreen.jpg
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Textures/SpotsGreen.jpg.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Textures/SpotsGreenBlue.jpg
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Textures/SpotsGreenBlue.jpg.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Textures/SpotsGreenLight.jpg
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Textures/SpotsGreenLight.jpg.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Textures/SpotsGreenLime.jpg
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Textures/SpotsGreenLime.jpg.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Textures/SpotsGrey.jpg
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Textures/SpotsGrey.jpg.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Textures/SpotsPurpleBright.jpg
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Textures/SpotsPurpleBright.jpg.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Textures/StripesGreen.jpg
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Textures/StripesGreen.jpg.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Textures/StripesGreenBlue.jpg
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Textures/StripesGreenBlue.jpg.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Textures/StripesGreenLime.jpg
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Textures/StripesGreenLime.jpg.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Textures/StripesGrey.jpg
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Textures/StripesGrey.jpg.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Textures/StripesPurple.jpg
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Textures/StripesPurple.jpg.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Textures/TrimSheet_Blues.jpg
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Textures/TrimSheet_Blues.jpg.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Textures/TrimSheet_GreenPurple.jpg
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Textures/TrimSheet_GreenPurple.jpg.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Textures/TrimSheet_Purples.jpg
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Textures/TrimSheet_Purples.jpg.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Textures/WallBlule.jpg
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Textures/WallBlule.jpg.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Textures/WallGreen.jpg
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Textures/WallGreen.jpg.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Textures/WallGreenLight.jpg
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Textures/WallGreenLight.jpg.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Textures/WallGrey.jpg
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Textures/WallGrey.jpg.meta
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Textures/WallPurple.jpg
+	new file:   Assets/UnityTechnologies/Basic Asset Pack Interior/Textures/WallPurple.jpg.meta
+	new file:   Assets/UnityTechnologies/Settings.meta
+	new file:   Assets/UnityTechnologies/Settings/SampleSceneProfile.asset
+	new file:   Assets/UnityTechnologies/Settings/SampleSceneProfile.asset.meta
+	new file:   Assets/UnityTechnologies/Settings/Universal Render Pipeline Asset.asset
+	new file:   Assets/UnityTechnologies/Settings/Universal Render Pipeline Asset.asset.meta
+	new file:   Assets/UnityTechnologies/Settings/Universal Render Pipeline Asset_Renderer.asset
+	new file:   Assets/UnityTechnologies/Settings/Universal Render Pipeline Asset_Renderer.asset.meta
+	new file:   Logs/Packages-Update.log
+	new file:   Logs/shadercompiler-UnityShaderCompiler.exe0.log
+	new file:   PICO.Platform.Editor.csproj
+	new file:   PICO.Platform.Player.csproj
+	new file:   PICO.Platform.csproj
+	new file:   PICO.TobSupport.Player.csproj
+	new file:   PICO.TobSupport.csproj
+	new file:   Packages/manifest.json
+	new file:   Packages/packages-lock.json
+	new file:   Pico.Spatializer.Editor.csproj
+	new file:   Pico.Spatializer.Example.Player.csproj
+	new file:   Pico.Spatializer.Example.csproj
+	new file:   Pico.Spatializer.Player.csproj
+	new file:   Pico.Spatializer.csproj
+	modified:   ProjectSettings/QualitySettings.asset
+	new file:   Unity.CollabProxy.Editor.csproj
+	new file:   Unity.InputSystem.Player.csproj
+	new file:   Unity.InputSystem.TestFramework.Player.csproj
+	new file:   Unity.InputSystem.TestFramework.csproj
+	new file:   Unity.InputSystem.csproj
+	new file:   Unity.Mathematics.Editor.csproj
+	new file:   Unity.Mathematics.Player.csproj
+	new file:   Unity.Mathematics.csproj
+	new file:   Unity.PlasticSCM.Editor.csproj
+	new file:   Unity.Rider.Editor.csproj
+	new file:   Unity.TextMeshPro.Editor.csproj
+	new file:   Unity.TextMeshPro.Player.csproj
+	new file:   Unity.TextMeshPro.csproj
+	new file:   Unity.Timeline.Editor.csproj
+	new file:   Unity.Timeline.Player.csproj
+	new file:   Unity.Timeline.csproj
+	new file:   Unity.VSCode.Editor.csproj
+	new file:   Unity.VisualScripting.Core.Editor.csproj
+	new file:   Unity.VisualScripting.Core.Player.csproj
+	new file:   Unity.VisualScripting.Core.csproj
+	new file:   Unity.VisualScripting.Flow.Editor.csproj
+	new file:   Unity.VisualScripting.Flow.Player.csproj
+	new file:   Unity.VisualScripting.Flow.csproj
+	new file:   Unity.VisualScripting.SettingsProvider.Editor.csproj
+	new file:   Unity.VisualScripting.Shared.Editor.csproj
+	new file:   Unity.VisualScripting.State.Editor.csproj
+	new file:   Unity.VisualScripting.State.Player.csproj
+	new file:   Unity.VisualScripting.State.csproj
+	new file:   Unity.VisualStudio.Editor.csproj
+	new file:   Unity.XR.CoreUtils.Editor.csproj
+	new file:   Unity.XR.CoreUtils.Player.csproj
+	new file:   Unity.XR.CoreUtils.csproj
+	new file:   Unity.XR.Interaction.Toolkit.Editor.csproj
+	new file:   Unity.XR.Interaction.Toolkit.Player.csproj
+	new file:   Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Player.csproj
+	new file:   Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj
+	new file:   Unity.XR.Interaction.Toolkit.csproj
+	new file:   Unity.XR.Management.Editor.csproj
+	new file:   Unity.XR.Management.Player.csproj
+	new file:   Unity.XR.Management.csproj
+	new file:   Unity.XR.PICO.Editor.csproj
+	new file:   Unity.XR.PICO.Player.csproj
+	new file:   Unity.XR.PICO.csproj
+	new file:   UnityEditor.SpatialTracking.csproj
+	new file:   UnityEditor.TestRunner.csproj
+	new file:   UnityEditor.UI.csproj
+	new file:   UnityEditor.XR.LegacyInputHelpers.csproj
+	new file:   UnityEngine.SpatialTracking.Player.csproj
+	new file:   UnityEngine.SpatialTracking.csproj
+	new file:   UnityEngine.TestRunner.Player.csproj
+	new file:   UnityEngine.TestRunner.csproj
+	new file:   UnityEngine.UI.Player.csproj
+	new file:   UnityEngine.UI.csproj
+	new file:   UnityEngine.XR.LegacyInputHelpers.Player.csproj
+	new file:   UnityEngine.XR.LegacyInputHelpers.csproj
+	new file:   UserSettings/EditorUserSettings.asset
+	new file:   UserSettings/Layouts/default-2021.dwlt
+	new file:   obj/Debug/Assembly-CSharp.Player.csproj.AssemblyReference.cache
+	new file:   obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache
+	new file:   obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+	new file:   obj/Debug/PICO.Platform.Editor.csproj.AssemblyReference.cache
+	new file:   obj/Debug/PICO.Platform.Player.csproj.AssemblyReference.cache
+	new file:   obj/Debug/PICO.Platform.csproj.AssemblyReference.cache
+	new file:   obj/Debug/PICO.TobSupport.Player.csproj.AssemblyReference.cache
+	new file:   obj/Debug/PICO.TobSupport.csproj.AssemblyReference.cache
+	new file:   obj/Debug/Pico.Spatializer.Editor.csproj.AssemblyReference.cache
+	new file:   obj/Debug/Pico.Spatializer.Example.Player.csproj.AssemblyReference.cache
+	new file:   obj/Debug/Pico.Spatializer.Example.csproj.AssemblyReference.cache
+	new file:   obj/Debug/Pico.Spatializer.Player.csproj.AssemblyReference.cache
+	new file:   obj/Debug/Pico.Spatializer.csproj.AssemblyReference.cache
+	new file:   obj/Debug/Unity.CollabProxy.Editor.csproj.AssemblyReference.cache
+	new file:   obj/Debug/Unity.InputSystem.Player.csproj.AssemblyReference.cache
+	new file:   obj/Debug/Unity.InputSystem.TestFramework.Player.csproj.AssemblyReference.cache
+	new file:   obj/Debug/Unity.InputSystem.TestFramework.csproj.AssemblyReference.cache
+	new file:   obj/Debug/Unity.InputSystem.csproj.AssemblyReference.cache
+	new file:   obj/Debug/Unity.Mathematics.Editor.csproj.AssemblyReference.cache
+	new file:   obj/Debug/Unity.Mathematics.Player.csproj.AssemblyReference.cache
+	new file:   obj/Debug/Unity.Mathematics.csproj.AssemblyReference.cache
+	new file:   obj/Debug/Unity.PlasticSCM.Editor.csproj.AssemblyReference.cache
+	new file:   obj/Debug/Unity.Rider.Editor.csproj.AssemblyReference.cache
+	new file:   obj/Debug/Unity.TextMeshPro.Editor.csproj.AssemblyReference.cache
+	new file:   obj/Debug/Unity.TextMeshPro.Player.csproj.AssemblyReference.cache
+	new file:   obj/Debug/Unity.TextMeshPro.csproj.AssemblyReference.cache
+	new file:   obj/Debug/Unity.Timeline.Editor.csproj.AssemblyReference.cache
+	new file:   obj/Debug/Unity.Timeline.Player.csproj.AssemblyReference.cache
+	new file:   obj/Debug/Unity.Timeline.csproj.AssemblyReference.cache
+	new file:   obj/Debug/Unity.VSCode.Editor.csproj.AssemblyReference.cache
+	new file:   obj/Debug/Unity.VisualScripting.Core.Editor.csproj.AssemblyReference.cache
+	new file:   obj/Debug/Unity.VisualScripting.Core.Player.csproj.AssemblyReference.cache
+	new file:   obj/Debug/Unity.VisualScripting.Core.csproj.AssemblyReference.cache
+	new file:   obj/Debug/Unity.VisualScripting.Flow.Editor.csproj.AssemblyReference.cache
+	new file:   obj/Debug/Unity.VisualScripting.Flow.Player.csproj.AssemblyReference.cache
+	new file:   obj/Debug/Unity.VisualScripting.Flow.csproj.AssemblyReference.cache
+	new file:   obj/Debug/Unity.VisualScripting.SettingsProvider.Editor.csproj.AssemblyReference.cache
+	new file:   obj/Debug/Unity.VisualScripting.Shared.Editor.csproj.AssemblyReference.cache
+	new file:   obj/Debug/Unity.VisualScripting.State.Editor.csproj.AssemblyReference.cache
+	new file:   obj/Debug/Unity.VisualScripting.State.Player.csproj.AssemblyReference.cache
+	new file:   obj/Debug/Unity.VisualScripting.State.csproj.AssemblyReference.cache
+	new file:   obj/Debug/Unity.VisualStudio.Editor.csproj.AssemblyReference.cache
+	new file:   obj/Debug/Unity.XR.CoreUtils.Editor.csproj.AssemblyReference.cache
+	new file:   obj/Debug/Unity.XR.CoreUtils.Player.csproj.AssemblyReference.cache
+	new file:   obj/Debug/Unity.XR.CoreUtils.csproj.AssemblyReference.cache
+	new file:   obj/Debug/Unity.XR.Interaction.Toolkit.Editor.csproj.AssemblyReference.cache
+	new file:   obj/Debug/Unity.XR.Interaction.Toolkit.Player.csproj.AssemblyReference.cache
+	new file:   obj/Debug/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Player.csproj.AssemblyReference.cache
+	new file:   obj/Debug/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj.AssemblyReference.cache
+	new file:   obj/Debug/Unity.XR.Interaction.Toolkit.csproj.AssemblyReference.cache
+	new file:   obj/Debug/Unity.XR.Management.Editor.csproj.AssemblyReference.cache
+	new file:   obj/Debug/Unity.XR.Management.Player.csproj.AssemblyReference.cache
+	new file:   obj/Debug/Unity.XR.Management.csproj.AssemblyReference.cache
+	new file:   obj/Debug/Unity.XR.PICO.Editor.csproj.AssemblyReference.cache
+	new file:   obj/Debug/Unity.XR.PICO.Player.csproj.AssemblyReference.cache
+	new file:   obj/Debug/Unity.XR.PICO.csproj.AssemblyReference.cache
+	new file:   obj/Debug/UnityEditor.SpatialTracking.csproj.AssemblyReference.cache
+	new file:   obj/Debug/UnityEditor.TestRunner.csproj.AssemblyReference.cache
+	new file:   obj/Debug/UnityEditor.UI.csproj.AssemblyReference.cache
+	new file:   obj/Debug/UnityEditor.XR.LegacyInputHelpers.csproj.AssemblyReference.cache
+	new file:   obj/Debug/UnityEngine.SpatialTracking.Player.csproj.AssemblyReference.cache
+	new file:   obj/Debug/UnityEngine.SpatialTracking.csproj.AssemblyReference.cache
+	new file:   obj/Debug/UnityEngine.TestRunner.Player.csproj.AssemblyReference.cache
+	new file:   obj/Debug/UnityEngine.TestRunner.csproj.AssemblyReference.cache
+	new file:   obj/Debug/UnityEngine.UI.Player.csproj.AssemblyReference.cache
+	new file:   obj/Debug/UnityEngine.UI.csproj.AssemblyReference.cache
+	new file:   obj/Debug/UnityEngine.XR.LegacyInputHelpers.Player.csproj.AssemblyReference.cache
+	new file:   obj/Debug/UnityEngine.XR.LegacyInputHelpers.csproj.AssemblyReference.cache
+	new file:   pico.sln
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   Logs/shadercompiler-UnityShaderCompiler.exe0.log
+	modified:   UserSettings/Layouts/default-2021.dwlt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	log.txt
+
