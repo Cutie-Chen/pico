@@ -1,6 +1,8 @@
 using UnityEngine;
 using System.Collections;
-using SojaExiles;
+using System.Collections.Generic;
+using UnityEngine.InputSystem;
+using UnityEngine.XR;
 
 public class door_open : MonoBehaviour
 {
@@ -8,9 +10,11 @@ public class door_open : MonoBehaviour
     
     public Animator openandclose;
     public bool open;
-
+   
+   
     void Start()
     {
+       
         open = false;
     }
     private void OnTriggerEnter(Collider collision)
