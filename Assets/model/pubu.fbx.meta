@@ -8,7 +8,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: vray_Hs water mat_
-    second: {fileID: -2176670919449828842, guid: 6fe8b0552b03ecd469e7a9f693be777c, type: 3}
+    second: {fileID: 2100000, guid: 6b4d5bd0d9e38864e8088e643ff66e2e, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
