@@ -1730,8 +1730,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 2, y: 2, z: 2}
-  m_Center: {x: 0, y: 2, z: 1.1999999}
+  m_Size: {x: 2, y: 2, z: 0.894318}
+  m_Center: {x: 1.1821242e-13, y: 2, z: 1.7528408}
 --- !u!23 &233600620
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -5563,8 +5563,8 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 1.4434953, y: 2.7819252, z: 1.1761887}
-  m_Center: {x: 0.29733694, y: -0.034285784, z: 0.08809435}
+  m_Size: {x: 2.3787544, y: 2.7819252, z: 1.1761887}
+  m_Center: {x: 0.70065844, y: -0.034285784, z: 0.08809435}
 --- !u!1 &985065356
 GameObject:
   m_ObjectHideFlags: 0
@@ -5624,8 +5624,8 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 1.6462301, y: 2.7819252, z: 1.1761887}
-  m_Center: {x: 0.3987044, y: -0.034285784, z: 0.08809435}
+  m_Size: {x: 2.0853164, y: 2.7819252, z: 1.1761887}
+  m_Center: {x: 0.61824775, y: -0.034285784, z: 0.08809435}
 --- !u!1 &1003501823
 GameObject:
   m_ObjectHideFlags: 0
@@ -14500,8 +14500,8 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 1.6462301, y: 2.7819252, z: 1.1761887}
-  m_Center: {x: 0.3987044, y: -0.034285784, z: 0.08809435}
+  m_Size: {x: 1.7149029, y: 2.7819252, z: 1.1761887}
+  m_Center: {x: 0.36436796, y: -0.034285784, z: 0.08809435}
 --- !u!1 &1902224805
 GameObject:
   m_ObjectHideFlags: 0
