@@ -26,8 +26,8 @@ public class CoinManager : MonoBehaviour
         if (coinIndex == currentIndex)
         {
             // 显示当前金币并隐藏数字
-            cubes[coinIndex].SetActive(true);
-            numbers[coinIndex].SetActive(false);
+            //cubes[coinIndex].SetActive(true);
+            //numbers[coinIndex].SetActive(false);
 
             // 更新索引，准备显示下一个金币
             currentIndex++;
