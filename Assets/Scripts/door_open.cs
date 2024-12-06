@@ -31,7 +31,7 @@ public class door_open : MonoBehaviour
         Debug.Log("Åö×²Àë¿ª");
         if (open == true)
         {
-            StartCoroutine(closing());
+            //StartCoroutine(closing());
         }
 
     }
@@ -47,7 +47,7 @@ public class door_open : MonoBehaviour
     {
         print("you are closing the door");
         openandclose.Play("Closing");
-        open = false;
+        //open = false;
         yield return new WaitForSeconds(.5f);
     }
 
