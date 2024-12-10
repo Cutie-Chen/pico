@@ -57,10 +57,14 @@ public class trigger_detect : MonoBehaviour
         //用户按键后，金币变成数字，目前仅写了键盘事件
         if ((deviceLeft.TryGetFeatureValue(CommonUsages.gripButton, out L_Value) && L_Value)|| (deviceRight.TryGetFeatureValue(CommonUsages.gripButton, out R_Value) && R_Value) || (Input.GetKeyDown(KeyCode.Space)))
         {
-            cube.SetActive(false);
-            number.SetActive(true);
-            shouldRotate=false;
-            
+            if(cube.activeSelf)
+            {
+                cube.SetActive(false);
+                number.SetActive(true);
+                shouldRotate = false;
+
+            }
+
             coinManager.ShowNextCoin(coinIndex);    //显示下一个金币
         }
     }

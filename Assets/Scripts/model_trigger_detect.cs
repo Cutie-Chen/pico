@@ -49,9 +49,14 @@ public class model_trigger_detect : MonoBehaviour
         if ((deviceLeft.TryGetFeatureValue(CommonUsages.gripButton, out L_Value) && L_Value)|| (deviceRight.TryGetFeatureValue(CommonUsages.gripButton, out R_Value) && R_Value) || (Input.GetKeyDown(KeyCode.Space)))
         {
             //cube.SetActive(false);
-            number.SetActive(true);
+
+            if(cube.activeSelf)
+            {
+                number.SetActive(true);
+
+                coinManager.ShowNextCoin(coinIndex);    //显示下一个金币
+            }
             
-            coinManager.ShowNextCoin(coinIndex);    //显示下一个金币
         }
     }
 

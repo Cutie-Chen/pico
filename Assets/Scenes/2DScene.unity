@@ -811,7 +811,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8fe455b13929969459680eb4fa9ed2f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cube: {fileID: 0}
+  cube: {fileID: 32042350}
   number: {fileID: 1391284408}
   rotationSpeed: {x: 0, y: 100, z: 0}
   coinIndex: 1
